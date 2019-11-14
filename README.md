@@ -1,5 +1,5 @@
-List of algorithms
-==================
+List of algorithms 🏆
+=====================
 
 Contents
 --------
